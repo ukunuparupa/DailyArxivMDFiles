@@ -1,0 +1,10 @@
+# authors:
+#Enrico_Turetta
+
+
+# summary:
+The counting of microstates of supersymmetric black holes with anti-de Sitter or flat asymptotics is obtained by computing a supersymmetric index in a weakly coupled string theory or a dual superconformal field theory. These indices are protected observables, whose value can be reliably extrapolated from weak to strong coupling, where the gravitational description applies. In this Thesis, after a broad introductory review, we discuss recent progress in formulating such protected observables directly within the gravitational theory, via the Euclidean path integral. In the semiclassical limit the index reduces to a sum over complex Euclidean saddles. These saddles are supersymmetric but ''non-extremal'', and arise in both anti-de Sitter and flat spaces. In the holographic setting, we investigate four-derivative corrections to the thermodynamics of AdS$_5$ black holes. Using off-shell methods, we construct the corrected action of five-dimensional gauged supergravity. We then evaluate the corrected on-shell action of supersymmetric AdS$_5$ black holes and find exact agreement with a Cardy-like limit of the superconformal index of the dual conformal field theory. By a Legendre transform of the action, we obtain the corrected black hole entropy, and we confirm this result by applying Wald's formula to the corrected near-horizon geometry. We then turn to the gravitational index with asymptotically flat boundary conditions. We uncover a broad family of novel saddles and present a general classification based on their rod structure, which characterizes their topology. These solutions may feature multiple horizons or three-dimensional bubbles with lens space topology, and allowing for conical singularities yields further geometries, involving spindles and branched spheres. For the simpler geometries, the on-shell action is computed using an odd-dimensional version of equivariant localization.
+
+# link:
+URL:http://arxiv.org/abs/2602.13702v1
+
